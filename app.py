@@ -31,8 +31,6 @@ with col2:
 st.subheader("Uso de Botones")
 if st.button('Por favor amigo tócame'):
     st.write('Gracias por tocarme')
-       if st.button('Por favor amigo tócame'):
-          st.write('No tan duro porfa') 
 else:
     st.write('No has presionado aún')
 
